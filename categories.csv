@@ -1,0 +1,64 @@
+category,status,text 
+A0,,Coal (Distributive)
+B0,,Coal (Other) and Nuclear
+B1,,Metals
+B4,,Aggregates
+B5,,Domestic and Industrial Waste
+B6,,Building Materials (TLF)
+B7,,Petroleum Products
+BR,,Rail Replacement Bus
+BS,,Timetabled Bus service
+DD,,Departmental
+DH,,Civil Engineer
+DI,,Mechanical & Electrical Engineer
+DQ,,Stores
+DT,,Test
+DY,,Signal & Telecommunications Engineer
+E0,,Coal (Electricity) MGR
+EE,,Empty Coaching Stock
+EL,,"ECS, London Underground/Metro"
+ES,,ECS and Staff
+H0,,RfD Channel Tunnel (Mixed Business)
+H1,,RfD Channel Tunnel Intermodal
+H2,,RfD Automotive (Vehicles)
+H3,,RfD Channel Tunnel Automotive
+H4,,RfD Channel Tunnel Contract Services
+H5,,RfD Channel Tunnel Haulmark
+H6,,RfD Channel Tunnel Joint Venture
+H8,,RfD European
+H9,,RfD Freightliner (Other)
+J2,,RfD Automotive (Components)
+J3,,RfD Edible Products (UK Contracts)
+J4,,RfD Industrial Minerals (UK Contracts)
+J5,,RfD Chemicals (UK Contracts)
+J6,,RfD Building Minerals (UK Contracts)
+J8,,RfD General Merchandise (UK Contracts)
+J9,,RfD Freightliner (Contracts)
+JJ,,Postal
+OL,,London Underground or Metro
+OO,,Ordinary Passenger
+OS,,Staff Train
+OU,,Unadvertised Ordinary Passenger
+OW,,Mixed Train
+PM,,Post Office Controlled Parcels
+PP,,Parcels
+PV,,Empty Non-Passenger Stock
+XC,,Channel Tunnel
+XD,,Sleeper (European)
+XI,,International
+XR,,Motorail
+XU,,Unadvertised Express
+XX,,Express Passenger
+XZ,,Sleeper (Domestic)
+ZB,,Locomotive & Brake Van
+ZZ,,Light Locomotive
+,B,Bus
+,5,Bus
+,F,Freight
+,2,Freight
+,P,Passenger & Parcels
+,1,Passenger & Parcels
+,S,Shipping service
+,4,Shipping service
+,T,Trip
+,3,Trip
