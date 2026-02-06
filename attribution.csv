@@ -33,8 +33,8 @@ FO,an unknown problem,unknown cause
 FP,an incorrect route being taken,incorrect route
 FS,a signalling problem with ETCS/ERTMS equipment,ETCS/ERTMS signalling problem
 FT,it being Autumn,Autumn weather
-FX,the train running at a slower speed than expected,slow train
 FW,a late start from the yard due to an unknown problem,late start
+FX,the train running at a slower speed than expected,slow train
 FZ,unknown cause related to a freight operating company,unknown cause
 I0,a problem with safety equipment,safety equipment problem
 I1,a problem with the electrified line,electrified line problem
