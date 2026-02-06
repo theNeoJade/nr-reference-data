@@ -122,20 +122,20 @@ MY,a problem with the train,mishap
 NA,a problem with the onboard tilting equipment,tilting equipment problem
 OA,late running caused by another service,late due to another service
 OB,late running caused by another service,late due to another service
-OC,an error having been made,error having been made
+OC,a signalling error having been made,signalling error
 OD,late running caused by the decision of route control,decision by route control
 OE,a problem with rail adhesion,rail adhesion problem
-OF,an error having been made,error having been made
+OF,a signalling error having been made,signalling error
 OG,a problem with the infrastructure caused by adverse weather conditions,adverse weather conditions
 OH,a problem with signalling equipment,signalling equipment problem
 OI,a problem under investigation,problem under investigation
 OJ,a fire,fire
-OK,an error having been made,error having been made
+OK,an operational error having been made,operational oversight
 OL,the signalbox not being open,signalbox not open
 OM,a problem with a railhead treatment train,train fault
 ON,a problem under investigation,problem under investigation
 OP,the failure of train monitoring systems,train fault
-OQ,an error having been made,error having been made
+OQ,a signalling error having been made,signalling error
 OS,a problem with a railhead treatment train,train fault
 OT,operational safety requirements,safety requirements
 OU,a delay not investigated,delay not investigated
