@@ -9,14 +9,14 @@ AJ,waiting for customer traffic,waiting for customer
 AK,an incident in a freight yard,a fire
 AX,problem with the infrastructure,problem with infrastructure
 AZ,unknown cause related to a freight operating company,unknown cause
-DA,a problem with rolling stock,rolling stock issue
-DB,a problem with operating a train service,operational issue
-DC,a problem with the train crew,train crew issue
-DD,a problem with rolling stock,rolling stock issue
-DE,a problem at a station,station issue
-DF,a problem external to the railway,external issue
-DG,a problem in a freight yard,freight yard issue
-DH,a problem with rail adhesion,Autumn weather
+DA,a problem with rolling stock pending investigation,rolling stock issue pending investigation
+DB,a problem with operating a train service pending investigation,operational issue pending investigation
+DC,a problem with the train crew pending investigation,train crew issue pending investigation
+DD,a problem with rolling stock pending investigation,rolling stock issue pending investigation
+DE,a problem at a station pending investigation,station issue pending investigation
+DF,a problem external to the railway pending investigation,external issue pending investigation
+DG,a problem in a freight yard pending investigation,freight yard issue pending investigation
+DH,a problem with rail adhesion pending investigation,rail adhesion issue pending investigation
 FA,an incident with dangerous goods,incident
 FC,a problem with the train crew,train crew issue
 FE,the train crew not being available,planning error
