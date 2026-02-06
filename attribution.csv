@@ -119,7 +119,7 @@ MU,a problem at the depot,problem at depot
 MV,a problem with engineering equipment outside engineering works,equipment fault
 MW,adverse weather conditions,train fault
 MY,a problem with the train,train fault
-NA,a problem with the onboard tilting equipment,tilting equipment problem
+NA,a problem with the onboard tilting equipment,train fault
 OA,late running caused by another service,late due to another service
 OB,late running caused by another service,late due to another service
 OC,a signalling error having been made,signalling error
