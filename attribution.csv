@@ -61,7 +61,7 @@ IM,a signalling problem (balise failure),signalling system fault
 IN,a problem with track-side equipment,signalling system fault
 IP,a points failure caused by adverse weather conditions,points failure - weather
 IQ,a problem with track-side equipment,trackside equipment problem
-IR,a rail defect,rail defect
+IR,a rail defect,track problem
 IS,a problem with the track,track problem
 IT,a reported problem with the track,track problem
 IV,a problem with the track,track problem
