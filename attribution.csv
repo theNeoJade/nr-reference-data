@@ -124,7 +124,7 @@ OA,late running caused by another service,late due to another service
 OB,late running caused by another service,late due to another service
 OC,a signalling error having been made,signalling error
 OD,late running caused by the decision of route control,decision by route control
-OE,a problem with rail adhesion,rail adhesion problem
+OE,a problem with rail adhesion,lack of rail adhesion
 OF,a signalling error having been made,signalling error
 OG,a problem with the infrastructure caused by adverse weather conditions,adverse weather conditions
 OH,a problem with signalling equipment,signalling equipment problem
