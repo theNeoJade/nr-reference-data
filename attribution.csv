@@ -59,13 +59,13 @@ IK,a signalling problem (telecom failure),signalling system fault
 IL,a signalling problem (token failure),signalling system fault
 IM,a signalling problem (balise failure),signalling system fault
 IN,a problem with track-side equipment,signalling system fault
-IP,a points failure caused by adverse weather conditions,points failure due to weather
+IP,a points failure caused by adverse weather conditions,points failure
 IQ,a problem with track-side equipment,trackside equipment problem
 IR,a rail defect,track problem
 IS,a problem with the track,track problem
 IT,a reported problem with the track,track problem
 IV,a problem with the track,track problem
-IW,a problem with the infrastructure caused by adverse weather conditions,infrastructure problem due to weather
+IW,a problem with the infrastructure caused by adverse weather conditions,infrastructure problem
 IZ,a problem with the infrastructure,infrastructure problem
 J0,a problem with train communications,train comms problem
 J2,a minor signalling problem,minor signalling system fault
@@ -81,13 +81,13 @@ JB,temporary speed restrictions,temporary speed restrictions
 JD,a problem with the infrastructure,infrastructure problem
 JF,a problem with the infrastructure,infrastructure problem
 JG,engineering overrun/cancellation causing temporary speed restrictions,temporary speed restrictions
-JH,heat causing emergency speed restrictions,speed restrictions due to heat
+JH,heat causing emergency speed restrictions,temporary speed restrictions
 JK,flooding,flooding
 JL,an unknown cause,unknown cause
 JP,lineside vegetation,lineside vegetation
 JR,a signalling problem,signalling system fault
 JS,a problem with the track causing temporary speed restrictions,temporary speed restrictions
-JT,a points failure caused by adverse weather conditions,points failure due to weather
+JT,a points failure caused by adverse weather conditions,points failure
 JX,an obstruction on the line,obstruction on line
 M0,a problem with the on-board safety systems,on-board safety systems problem
 M1,a problem with a pantograph,train problem
