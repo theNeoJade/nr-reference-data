@@ -70,8 +70,8 @@ IZ,a problem with the infrastructure,infrastructure problem
 J0,a problem with train communications,train comms problem
 J2,a minor signalling problem,minor signalling system fault
 J3,a problem with signalling equipment,signalling system fault
-J4,a reported problem with the infrastructure,safety equipment problem
-J5,a reported problem with the infrastructure,safety equipment problem
+J4,a reported problem with the infrastructure,infrastructure problem
+J5,a reported problem with the infrastructure,infrastructure problem
 J6,a lightning strike,lightning strike
 J7,a signalling problem,signalling system fault
 J8,damage to the track during engineering works,track damage
