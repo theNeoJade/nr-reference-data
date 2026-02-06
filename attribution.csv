@@ -59,13 +59,13 @@ IK,a signalling problem (telecom failure),signalling system fault
 IL,a signalling problem (token failure),signalling system fault
 IM,a signalling problem (balise failure),signalling system fault
 IN,a problem with track-side equipment,signalling system fault
-IP,a points failure caused by adverse weather conditions,points failure - weather
+IP,a points failure caused by adverse weather conditions,points failure due to weather
 IQ,a problem with track-side equipment,trackside equipment problem
 IR,a rail defect,track problem
 IS,a problem with the track,track problem
 IT,a reported problem with the track,track problem
 IV,a problem with the track,track problem
-IW,a problem with the infrastructure caused by adverse weather conditions,infrastructure problem - weather
+IW,a problem with the infrastructure caused by adverse weather conditions,infrastructure problem due to weather
 IZ,a problem with the infrastructure,infrastructure problem
 J0,a problem with train communications,train comms problem
 J2,a minor signalling problem,minor signalling system fault
@@ -80,14 +80,14 @@ JA,temporary speed restrictions,temporary speed restrictions
 JB,temporary speed restrictions,temporary speed restrictions
 JD,a problem with the infrastructure,infrastructure problem
 JF,a problem with the infrastructure,infrastructure problem
-JG,temporary speed restrictions,temporary speed restrictions
-JH,heat causing emergency speed restrictions,"emergency speed restrictions, heat"
+JG,engineering overrun/cancellation causing temporary speed restrictions,temporary speed restrictions
+JH,heat causing emergency speed restrictions,speed restrictions due to heat
 JK,flooding,flooding
 JL,an unknown cause,unknown cause
 JP,lineside vegetation,lineside vegetation
 JR,a signalling problem,signalling system fault
 JS,a problem with the track causing temporary speed restrictions,temporary speed restrictions
-JT,a points failure caused by adverse weather conditions,points failure - weather
+JT,a points failure caused by adverse weather conditions,points failure due to weather
 JX,an obstruction on the line,obstruction on line
 M0,a problem with the on-board safety systems,on-board safety systems problem
 M1,a problem with a pantograph,train problem
@@ -244,7 +244,7 @@ X2,severe flooding,severe flooding
 X3,a lightning strike causing damage,lightning strike
 X4,temporary speed restrictions caused by severe weather,temporary speed restrictions
 X8,animals on the line,animals on line
-X9,points failure as a result of severe snow,points failure - snow
+X9,points failure as a result of severe snow,points failure due to snow
 XA,trespass,trespass
 XB,vandalism,vandalism
 XC,a person hit by a train,person hit by a train
