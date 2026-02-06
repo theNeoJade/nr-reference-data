@@ -89,36 +89,36 @@ JR,a signalling problem,signalling system fault
 JS,a problem with the track causing temporary speed restrictions,temporary speed restrictions
 JT,a points failure caused by adverse weather conditions,points failure
 JX,an obstruction on the line,obstruction on line
-M0,a problem with the on-board safety systems,on-board safety systems problem
-M1,a problem with a pantograph,train problem
-M3,a problem with the train,train problem
-M5,a problem with the doors,door problem
-M6,a problem with the train,train problem
-M7,a problem with the doors,door problem
-M8,a problem with the train,train problem
-M9,a problem with the train,train problem
+M0,a problem with the on-board safety systems,on-board safety systems fault
+M1,a problem with a pantograph/shoe,train fault
+M3,a problem with the train,train fault
+M5,a problem with the doors,door fault
+M6,a problem with the train,train fault
+M7,a problem with the doors,door fault
+M8,a problem with the train,train fault
+M9,a problem with the train,train fault
 MB,a problem with the traction equipment,train fault
 MC,a problem with the traction equipment,train fault
 MD,a problem with the traction equipment,train fault
-ME,a problem with a steam locomotive,steam locomotive fault
-MF,a problem with the train,problem with train
+ME,a problem with a steam locomotive,train fault
+MF,a problem with the train,train fault
 MG,a problem with the train,train fault
-MH,a problem with the doors,problem with doors
+MH,a problem with the doors,door fault
 MI,a problem with a coach,problem with a coach
-MJ,a problem with the train,problem with train
-MK,a problem with the train,problem with train
-ML,a problem with the train,problem with train
+MJ,a problem with the train,train fault
+MK,a problem with the train,train fault
+ML,a problem with the train,train fault
 MN,a problem with the train,train fault
-MO,a delay with the train coming from depot,train delayed from depot
+MO,a delay with the train coming from depot,train late from depot
 MP,a problem with rail adhesion,rail adhesion issue
-MQ,a problem with the train,problem with train
-MR,safety checks,safety checks
+MQ,a problem with the train,train fault
+MR,a problem with the train,train fault
 MS,the planned train being replaced with a slower train,train swapped
-MT,a problem with the on-board safety systems,on-board safety systems problem
+MT,a problem with the on-board safety systems,on-board safety systems fault
 MU,a problem at the depot,problem at depot
 MV,a problem with engineering equipment outside engineering works,equipment fault
-MW,adverse weather conditions,adverse weather
-MY,a problem with the train,mishap
+MW,adverse weather conditions,train fault
+MY,a problem with the train,train fault
 NA,a problem with the onboard tilting equipment,tilting equipment problem
 OA,late running caused by another service,late due to another service
 OB,late running caused by another service,late due to another service
