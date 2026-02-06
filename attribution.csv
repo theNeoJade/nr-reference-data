@@ -20,7 +20,7 @@ DH,a problem with rail adhesion pending investigation,rail adhesion issue pendin
 FA,an incident with dangerous goods,incident
 FC,a incident involving the train crew,driver error
 FE,the train crew not being available,planning error
-FF,a train crew rostering issue,train crew issue
+FF,a train crew rostering issue,planning error
 FG,the driver adhering to company policy,company driving policy
 FH,a planning error,planning error
 FI,a signalling problem with ETCS/ERTMS equipment,ETCS/ERTMS signalling problem
