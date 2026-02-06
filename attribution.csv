@@ -126,8 +126,8 @@ OC,a signalling error having been made,signalling error
 OD,late running caused by the decision of route control,decision by route control
 OE,a problem with rail adhesion,lack of rail adhesion
 OF,a signalling error having been made,signalling error
-OG,a problem with the infrastructure caused by adverse weather conditions,adverse weather conditions
-OH,a problem with signalling equipment,signalling equipment problem
+OG,ice on the 3rd rail/OHLE,ice
+OH,a problem with signalling equipment,signalling system fault
 OI,a problem under investigation,problem under investigation
 OJ,a fire,fire
 OK,an operational error having been made,operational oversight
@@ -137,14 +137,14 @@ ON,a problem under investigation,problem under investigation
 OP,the failure of train monitoring systems,train fault
 OQ,a signalling error having been made,signalling error
 OS,a problem with a railhead treatment train,train fault
-OT,operational safety requirements,safety requirements
+OT,sighting issues causing a temporary speed restrictions,temporary speed restrictions
 OU,a delay not investigated,delay not investigated
-OV,a fire evacuation,fire evacuation
+OV,a fire,fire
 OW,a connection being held,connection being held
 OZ,a problem under investigation,problem under investigation
 PA,temporary speed restrictions,temporary speed restriction
 PB,temporary speed restrictions,temporary speed restriction
-PD,the planned cancellation (was not planned to operate),planned cancellation
+PD,the train being planned not to operate,planned cancellation
 PE,planned engineering work,planned engineering work
 PF,planned engineering work,planned engineering work
 PG,a planned cancellation by the train operator,planned cancellation
@@ -152,7 +152,7 @@ PJ,a duplicate,duplicate
 PL,an excluded reason,excluded reason
 PN,the train being a very short term planned (VSTP) service,planning error
 PS,being a duplicate/erroneous schedule,planning error
-PT,a problem with train monitoring systems,problem with train
+PT,a problem with train monitoring systems,train fault
 PZ,contractual exclusions,contractual exclusions
 QA,a problem with the schedule,schedule problem
 QB,planned engineering work,planned engineering work
