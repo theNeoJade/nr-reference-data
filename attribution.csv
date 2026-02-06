@@ -68,12 +68,12 @@ IV,a problem with the track,track problem
 IW,a problem with the infrastructure caused by adverse weather conditions,infrastructure problem - weather
 IZ,a problem with the infrastructure,infrastructure problem
 J0,a problem with train communications,train comms problem
-J2,a minor signalling problem,minor signalling problem
-J3,a problem with signalling equipment,signal failure
+J2,a minor signalling problem,minor signalling system fault
+J3,a problem with signalling equipment,signalling system fault
 J4,a reported problem with the infrastructure,safety equipment problem
 J5,a reported problem with the infrastructure,safety equipment problem
 J6,a lightning strike,lightning strike
-J7,a signalling problem,signalling problem
+J7,a signalling problem,signalling system fault
 J8,damage to the track during engineering works,track damage
 J9,emergency engineering works,emergency engineering work
 JA,temporary speed restrictions,temporary speed restrictions
@@ -85,7 +85,7 @@ JH,heat causing emergency speed restrictions,"emergency speed restrictions, heat
 JK,flooding,flooding
 JL,an unknown cause,unknown cause
 JP,lineside vegetation,lineside vegetation
-JR,a signalling problem,signalling problem
+JR,a signalling problem,signalling system fault
 JS,a problem with the track causing temporary speed restrictions,temporary speed restrictions
 JT,a points failure caused by adverse weather conditions,points failure - weather
 JX,an obstruction on the line,obstruction on line
