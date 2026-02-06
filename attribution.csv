@@ -45,21 +45,21 @@ I6,track inspections,engineering work
 I7,a broken down train related to engineering works,broken down train
 I8,animals on the line,animals on line
 I9,a fire,fire
-IA,a signal failure,signal failure
+IA,a signal failure,signalling system fault
 IB,a points failure,points failure
 IC,a signalling problem (track circuit failure),signalling system fault
-ID,a level crossing failure,level crossing failure
-IE,a signalling power failure,power failure
-IF,a signalling systems failure,signalling problem
-IG,a signalling problem,signalling problem
+ID,a level crossing failure,signalling system fault
+IE,a signalling power failure,signalling system fault
+IF,a signalling systems failure,signalling system fault
+IG,a signalling problem (block failure),signalling system fault
 IH,a power failure,power failure
-II,a fault with lineside cabling,power supply failure
-IJ,a problem with trackside signalling equipment,trackside equipment problem
-IK,a signalling problem,signalling problem
-IL,a signal failure,signal failure
-IM,a signal failure,signal failure
-IN,a problem with track-side equipment,trackside equipment problem
-IP,a points failure caused by adverse weather conditions,points failure
+II,a fault with lineside cabling,signalling system fault
+IJ,a problem with trackside signalling equipment,signalling system fault
+IK,a signalling problem (telecom failure),signalling system fault
+IL,a signalling problem (token failure),signalling system fault
+IM,a signalling problem (balise failure),signalling system fault
+IN,a problem with track-side equipment,signalling system fault
+IP,a points failure caused by adverse weather conditions,points failure - weather
 IQ,a problem with track-side equipment,trackside equipment problem
 IR,a rail defect,rail defect
 IS,a problem with the track,track problem
