@@ -26,7 +26,7 @@ FH,a planning error,planning error
 FI,a signalling problem with ETCS/ERTMS equipment,ETCS/ERTMS signalling problem
 FJ,being held at the request of the train operator,held at customer request
 FK,being diverted at request of the train operator ,diverted at customer request 
-FL,a request by the train operator,request by customer
+FL,a request by the train operator,request by operator
 FM,a problem with the train,problem with train
 FN,a late arrival of the service from Europe,late arrival from Europe
 FO,an unknown problem,unknown cause
